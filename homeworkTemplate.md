@@ -1,4 +1,4 @@
-##Name, GitHub repo URL
+##Kathryn Barnes, kbarnes6
 
 ##Assignment name
 
