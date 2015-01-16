@@ -1,4 +1,4 @@
-Enter file conten##Kathryn Barnes, kbarnes6
+##Kathryn Barnes, kbarnes6
 
 ##Assignment name
 
